@@ -6,7 +6,7 @@
   
   "scripts": {
     "dev": "nodemon src/index.js  --exec babel-node",
-    "start": "node src/inedx.js"
+    "start": "node src/index.js"
   },
   
   "dependencies": {
